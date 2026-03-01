@@ -1,4 +1,5 @@
 I am ingesting real-time data.
 New Data Ingested.
 Another Data Ingested.
-Latest IOT Data Ingested
+Latest IOT Data Ingested.
+I am ingesting real time data.
